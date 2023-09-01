@@ -1,4 +1,4 @@
 # csgo-countplayer
 <p align="left">
-  Test algo bukan real
+  Test algo bukan real nggak tau benar atau salah 🙏
 </p>
